@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectibles
+  - PowerUp
+  - Enemy_Barrier
+  - Enemy
+  - Enemy_Projectile
+  - Player_Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Plataform
+  - Player
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1888405231
+    locked: 0
+  - name: Forground
+    uniqueID: 3379143111
+    locked: 0
+  - name: Player
+    uniqueID: 956776279
+    locked: 0
+  - name: Enemies
+    uniqueID: 1485790593
+    locked: 0
+  - name: Collectbles
+    uniqueID: 221300103
+    locked: 0
+  - name: 'Projectiles '
+    uniqueID: 3719655665
+    locked: 0
+  - name: 
+    uniqueID: 3184668025
+    locked: 0
+  - name: New Layer
+    uniqueID: 1357918353
+    locked: 0
+  - name: New Layer
+    uniqueID: 796686775
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
